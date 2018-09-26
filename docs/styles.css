@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.header > img {
+  height: 1.5em;
+}

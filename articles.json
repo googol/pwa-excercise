@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "progressive-apps-escaping-tabs-without-losing-our-soul",
+    "title": "Progressive Web Apps: Escaping Tabs Without Losing Our Soul",
+    "originalUrl": "https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/",
+    "author": {
+      "name":"Alex Russel",
+      "image": "https://www.gravatar.com/avatar/9215f8e1629bf8ad9932239cadd21a92"
+    },
+    "lead": "It happens on the web from time to time that powerful technologies come to exist without the benefit of marketing departments or slick packaging. They linger and grow at the peripheries, becoming old-hat to a tiny group while remaining nearly invisible to everyone else. Until someone names them.",
+    "paragraphs": [
+      "This may be the inevitable consequence of a standards-based process and unsynchronized browser releases. We couldn’t keep a new feature secret if we wanted to, but that doesn’t mean anyone will hear about it. XMLHTTPRequest was available broadly since IE 5 and in Gecko-based browsers from as early as 2000. “AJAX” happened 5 years later.",
+      "This eventual adding-up of new technologies changes how we build and deliver experiences. They succeed when bringing new capabilities while maintaining shared principles:",
+      "- URLs and links as the core organizing system: if you can’t link to it, it isn’t part of the web",
+      "- Markup and styling for accessibility, both to humans and search engines",
+      "- UI Richness and system capabilities provided as additions to a functional core",
+      "- Free to implement without permission or payment, which in practice means standards-based",
+      "Major evolutions of the web must be compatible with it culturally as well as technically.",
+      "Many platforms have attempted to make it possible to gain access to “exotic” capabilities while still allowing developers to build with the client-side technology of the web. In doing so they usually jettison one or more aspect of the shared value system. They aren’t bad — many are technically brilliant — but they aren’t of the web:",
+      "These are just the ones that spring to mind offhand. I’m sure there have been others; it’s a popular idea. They frequently give up linkability in return for “appiness”: to work offline, be on the home screen, access system APIs, and re-engage users they have required apps be packaged, distributed through stores, and downloaded entirely before being experienced.",
+      "Instead of clicking a link to access the content you’re looking for, these systems make stores the mediators of applications which in turn mediate and facilitate discovery for content. The hybridzation process generates applications which can no longer live in or with the assumptions of the web. How does one deploy to all of these stores all at once? Can one still keep a fast iteration pace? How does the need to package everything up-front change your assumptions and infrastructure? How does search indexing work? It’s a deep tradeoff that pits fast-iteration and linkability against offline and store discovery."
+    ]
+  },
+  {
+    "slug": "naming-progressive-web-apps",
+    "title": "Naming Progressive Web Apps",
+    "originalUrl": "https://fberriman.com/2017/06/26/naming-progressive-web-apps/",
+    "author": {
+      "name":"Frances Berriman",
+      "image": "https://www.gravatar.com/avatar/f3f6ce13beb00d05a7876ca8ad970ae6"
+    },
+    "lead": "Inevitably, all I’ll be remembered for is naming Progressive Web Apps.",
+    "paragraphs": [
+      "I got an email a few weeks ago from a German technology magazine asking me some questions about Progressive Web Apps. I responded, but the email eventually bounced and I assume the sender never got my reply so I don’t know – can a print magazine go out of business that quickly?",
+      "I was thinking about the questions, though, and the answers I wrote. They wanted to know how we came up with the name (it’s really boring) and what I thought about native apps (meh), and would there be hybridisation (probably, inevitably).",
+      "I accidentally helped name this thing because it’s essentially core to Alex’s work these days. I’m more of a sounding board / humaniser than an active designer of the thing. Ultimately, we talk about it because I really care about the web – the open web – and sometimes I wonder if it’s too late to save it – which we find a depressing topic, but one we dwell on a lot.",
+      "I mean, we can’t even reliably do email still, apparently (I know they’re not the same), and we’ve got bullshit things like AMP essentially screwing up what it even means to have a website at all. AMP is a symptom that someone, somewhere, thinks the web is failing so badly (so slow, so unresponsive) for a portion of the world that they want to take all the content and package it back up in a sterile, un-webby, branded box. That makes me so sad. PWAs, to me, are a potential treatment.",
+      "I keep seeing folks (developers) getting all smart-ass saying they should have been PW “Sites” not “Apps” but I just want to put on the record that it doesn’t matter. The name isn’t for you and worrying about it is distraction from just building things that work better for everyone. The name is for your boss, for your investor, for your marketeer. It’s a way for you to keep making things on the open web, even those things that look really “app-y” and your company wants to actually make as a native app, 3 times over. They don’t want you to make websites anymore, but you still can if you’re sneaky, if you tell them it’s what they think they want.",
+      "It’s marketing, just like HTML5 had very little to do with actual HTML. PWAs are just a bunch of technologies with a zingy-new brandname that keeps the open web going a bit longer, that helps it compete with the proprietary, the closed, until the next thing (and hopefully the next thing) comes along to keep it sharp and relevant. It’s for the next billion users who come online and open a browser and go looking for what’s out there, for those users who have to pay per mb for their downloads, who have old shitty phones, who don’t want to, or can’t, be on a native-app-based operating system.",
+      "Remember, this is for everyone. The name isn’t."
+    ]
+  }
+]
+
